@@ -1,6 +1,7 @@
-package com.codility;
+package com.codility.lesson_04;
 
 
+import com.codility.lesson_04.PermCheck;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
